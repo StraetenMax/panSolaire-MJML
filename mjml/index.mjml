@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Eligibilité de votre société à la prime énergie</mj-title>
+    <mj-title>Eliigibilité de votre société à la prime énergie</mj-title>
     <mj-preview>Prime pour l'installation de panneaux photovoltaïques : êtes-vous éligible ?</mj-preview>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
     <mj-font name="EDF2020W05" href="https://op.ed-manleads.com/clt-df/edf/font/stylesheet2.css"/>
@@ -19,32 +19,32 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#eeeeee">
-    <mj-section padding="0">
+    <mj-section background-color="#ffffff" full-width="full-width">
       <mj-column>
-        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"><a style="color:#0000ff" href="#">Visualisez le message</a> | Ajouter au carnet d'adresses | <a style="color:#0000ff" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"><a style="color:#0000ff" href="#">Visualisez le message</a> | Ajouter au carnet d'adresses | <a style="color:#0000ff" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="https://i.ibb.co/9s1YnRn/logo4.jpg"></mj-image>
+    <mj-section background-color="#ffffff" padding="20px 20px 0 20px">
+      <mj-column width="25%">
+        <mj-image padding="0" width="140px" src="https://i.ibb.co/9s1YnRn/logo4.jpg"></mj-image>
       </mj-column>
-      <mj-column>
-        <mj-image src="https://i.ibb.co/KypPdsK/top2.jpg"></mj-image>
-        <mj-text>tpe pme</mj-text>
-        <mj-text>le saviez-vous ?</mj-text>
-        <mj-image src="https://i.ibb.co/txCpxpm/bottom2.jpg"></mj-image>
+      <mj-column width="75%" background-color="#1189ff">
+        <mj-image padding="0" width="420px" src="https://i.ibb.co/KypPdsK/top2.jpg"></mj-image>
+        <mj-text padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="20px" font-weight="400" line-height="22px" text-transform="uppercase" color="#001a70">tpe pme</mj-text>
+        <mj-text padding-top="0" padding-bottom="28px" padding-left="0" padding-right="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" line-height="40px" color="#ffffff">Le saviez-vous ?</mj-text>
+        <mj-image padding="0" width="420px" src="https://i.ibb.co/txCpxpm/bottom2.jpg"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px">
+    <mj-section background-color="#ffffff" padding="0 20px 20px 20px">
       <mj-column vertical-align="bottom">
-        <mj-text padding="24px 24px 15px 24px" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px" color="#333333">En tant qu'entreprise, vous pouvez bénéficier d'une prime <a style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size:22px;font-weight:700;line-height:26px;color:#1057c8;text-decoration:none" href="0" targe="_blank">jusqu'à 11 000 euros</a> pour l'installation de panneaux solaires dans votre entreprise<sup style="font-size:10px">(1)</sup>.</mj-text>
-        <mj-text padding="0 24px 24px 24px" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px">Pouvez-vous en bénéficier ?</mj-text>
+        <mj-text padding="24px 24px 15px 24px" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="18px" color="#333333">En tant qu'entreprise, vous pouvez bénéficier d'une prime <a style="font-family:'Roboto', Arial, Helvetica, sans-serif;font-size:22px;font-weight:700;line-height:26px;color:#1057c8;text-decoration:none" href="0" targe="_blank">jusqu'à 11 000 euros</a> pour l'installation de panneaux solaires dans votre entreprise<sup style="font-size:10px">(1)</sup>.</mj-text>
+        <mj-text padding="0 24px 24px 24px" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="18px" color="#333333">Pouvez-vous en bénéficier ?</mj-text>
         <mj-button padding="0 24px" align="center" background-color="#001a70" inner-padding="16px 30px" border-radius="80px" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="20px" color="#ffffff">Je vérifie l'éligibilité de mon entreprise</mj-button>
-        <mj-spacer height="35px"></mj-spacer>
+        <mj-spacer height="30px"></mj-spacer>
         <mj-image padding="0" width="280px" src="https://i.ibb.co/9rQf064/banner3.jpg" alt=""></mj-image>
       </mj-column>
       <mj-column vertical-align="bottom">
-        <mj-image padding="0" width="280px" src="https://i.ibb.co/Q6mv3hT/banner2.jpg" alt=""></mj-image>
+        <mj-image padding="0" fluid-on-mobile="true" width="280px" src="https://i.ibb.co/Q6mv3hT/banner2.jpg" alt=""></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0 20px 20px 20px">
