@@ -1,0 +1,31 @@
+mjml
+    mj-head
+        mj-title Eliigibilité de votre société à la prime énergie
+        mj-preview Prime pour l'installation de panneaux photovoltaïques : êtes-vous éligible ?
+        mj-font(name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap")/
+        mj-font(name="EDF2020W05" href="https://op.ed-manleads.com/clt-df/edf/font/stylesheet2.css")/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-image(border="none")/
+        mj-breakpoint(width="480px")
+    mj-body(background-color="#eeeeee")
+        //- content
+        block content
+        //- header
+            block header
+            include ../includes/_header
+        //- objectifs argumentaires
+            block objects
+            include ../includes/_objects
+        //- solutions
+            block solutions
+            include ../includes/_solutions
+        //- footer
+            block footer
+            include ../includes/_footer
