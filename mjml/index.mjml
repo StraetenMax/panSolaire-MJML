@@ -1,0 +1,63 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Eliigibilité de votre société à la prime énergie</mj-title>
+    <mj-preview>Prime pour l'installation de panneaux photovoltaïques : êtes-vous éligible ?</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
+    <mj-font name="EDF2020W05" href="https://op.ed-manleads.com/clt-df/edf/font/stylesheet2.css"/>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-image border="none"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#eeeeee">
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"><a style="color:#0000ff" href="#">Visualisez le message</a> | Ajouter au carnet d'adresses | <a style="color:#0000ff" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/9s1YnRn/logo4.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/KypPdsK/top2.jpg"></mj-image>
+        <mj-text>tpe pme</mj-text>
+        <mj-text>le saviez-vous ?</mj-text>
+        <mj-image src="https://i.ibb.co/txCpxpm/bottom2.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>En tant qu'entreprise, vous pouvez bénéficier d'une prime jusqu'à 11 000 euros pour l'installation de panneaux solaires dans votre entreprise(1).</mj-text>
+        <mj-text>Pouvez-vous en bénéficier ?</mj-text>
+        <mj-button>Je vérifie l'éligibilité de mon entreprise</mj-button>
+        <mj-image src="https://i.ibb.co/9rQf064/banner3.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/Q6mv3hT/banner2.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>(1) Les installations solaires sont éligibles à une prime à l'investissement. Cette prime est fonction de la puissance de l'installation : puissance du générateur photovoltaïque ≤ 100 kWc.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Ce message vous est adressé par Altares pour vous présenter les services de son client.</mj-text>
+        <mj-text>Plus de détails sur l'envoi de cet email et nos engagements sont accessibles par ce lien.</mj-text>
+        <mj-text>Si vous souhaitez stopper la réception des emails d'Altares pour ce client, suivez ce lien, </mj-text>
+        <mj-text>ou la réception de tous nos envois, suivez cet autre lien.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
