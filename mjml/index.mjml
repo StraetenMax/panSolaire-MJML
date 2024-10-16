@@ -19,9 +19,9 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#eeeeee">
-    <mj-section background-color="#ffffff" full-width="full-width">
+    <mj-section>
       <mj-column>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"><a style="color:#0000ff" href="#">Visualisez le message</a> | Ajouter au carnet d'adresses | <a style="color:#0000ff" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"><a style="color:#0000ff" href="#">Visualisez le message</a> | <a style="color:#0000ff" href="#">Ajouter au carnet d'adresses</a> | <a style="color:#0000ff" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 20px 0 20px">
@@ -52,12 +52,12 @@
         <mj-text padding="0" font-size="11px" font-weight="400" line-height="15px" color="#666666">(1) Les installations solaires sont éligibles à une prime à l'investissement. Cette prime est fonction de la puissance de l'installation : puissance du générateur photovoltaïque ≤ 100 kWc.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="20px">
       <mj-column>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Ce message vous est adressé par Altares pour vous présenter les services de son client.</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Plus de détails sur l'envoi de cet email et nos engagements sont accessibles par ce lien.</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Si vous souhaitez stopper la réception des emails d'Altares pour ce client, suivez ce lien, </mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">ou la réception de tous nos envois, suivez cet autre lien.</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Plus de détails sur l'envoi de cet email et nos engagements sont accessibles <a style="color:#0000ff" href="#">par ce lien</a>.</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Si vous souhaitez stopper la réception des emails d'Altares pour ce client, <a style="color:#0000ff" href="#">suivez ce lien</a>, </mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">ou la réception de tous nos envois, <a style="color:#0000ff" href="#">suivez cet autre lien</a>.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
